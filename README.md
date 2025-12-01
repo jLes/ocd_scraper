@@ -2,8 +2,8 @@
 
 A web scraper and REST API for New Mexico Oil Conservation Division (OCD) well data.
 
-### DATABASE FILE: api_well_data.db
-### Polygon Query Results: polygon_query_results.csv 
+### DATABASE FILE: *api_well_data.db*
+### Polygon Query Results: *polygon_query_results.csv*
 
 ## Setup
 
